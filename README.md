@@ -47,8 +47,7 @@ Fascinated about infinite space. :rocket:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
 
 [![Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
 
