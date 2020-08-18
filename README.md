@@ -1,6 +1,5 @@
 <h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="50px"> :earth_americas:</b></h1>
 
-
 <p align="left">
 My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
@@ -48,7 +47,8 @@ Fascinated about infinite space. :rocket:
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
 <div align="center">
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=ptorresr.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
+
 
 [![Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
 
