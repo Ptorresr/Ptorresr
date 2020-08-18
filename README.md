@@ -9,9 +9,6 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 4. 🥅 - 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
 </p>
-<p align="Left">
-Fascinated about infinite space. :rocket:
-</p>
 
 **💼 Currently working on:**
 
