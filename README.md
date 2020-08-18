@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :earth_americas:</b></h1>
+<h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="60px"> :earth_americas:</b></h1>
 
 
 <p align="left">
