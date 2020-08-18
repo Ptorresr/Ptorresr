@@ -1,14 +1,14 @@
-<h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :earth_asia:</b></h1>
+<h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> :earth_americas:</b></h1>
 
 
 <p align="left">
 My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
-- ⚡ I'm from Mexico and currently working at Oracle. 
-- 🔭 I’m currently working on a [kubernetes][website] [Docker][website] !
-- 🌱 I’m currently learning everything around of Microservices, Python Programming and Machine Learning.
-- 👯 I’m looking to collaborate with other content creators to create new contents.
-- 🥅 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
-- ⚡ Fun fact: I love to play Soccer and Tenis.
+1. Item 1 - ⚡ I'm from Mexico and currently working at Oracle. 
+1. Item 2 - 🔭 I’m currently working on a [kubernetes][website] [Docker][website] !
+1. Item 3 - 🌱 I’m currently learning everything around of Microservices, Python Programming and Machine Learning.
+1. Item 4 - 👯 I’m looking to collaborate with other content creators to create new contents.
+1. Item 5 - 🥅 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
+1. Item 6- ⚡ Fun fact: I love to play Soccer and Tenis.
 </p>
 <p align="center">
 Fascinated about infinite space. Occupy Mars! :rocket:
