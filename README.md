@@ -3,8 +3,8 @@
 <p align="left">
 My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
-1. 🔭 - I’m currently working on a [Oracle](https://www.oracle.com), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
-2. 🌱 - I’m currently learning everything around of Microservices, Python Programming and Machine Learning.
+1. 🔭 - I’m currently working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
+2. 🌱 - I’m currently learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
 3. 👯 - I’m looking to collaborate with other content creators to create new contents.
 4. 🥅 - 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
@@ -37,7 +37,7 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 
 <div align="left"> <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
-
+<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
