@@ -44,7 +44,8 @@ Fascinated about infinite space. :rocket:
 <div align="center">
 
 **📫 Reach me at:**<br>
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.torres.rdz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
 <div align="center">
 
 [visitors](https://visitor-badge.glitch.me/badge?page_id=ptorresr.visitor-badge)
