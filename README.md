@@ -33,7 +33,7 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 <code><a href="https://microservices.io/" target="_blank"><img height="40" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 <div align="Left">
-**📫 Reach me at:**<br>
+**📫 Reach me at:** <br>
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.torres.rdz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
