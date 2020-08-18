@@ -40,13 +40,13 @@ Fascinated about infinite space. :rocket:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
-<div align="center">
-
+<div align="Left">
 **📫 Reach me at:**<br>
+
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.torres.rdz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
-<div align="center">
 
+<div align="Center">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
 
 [![Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
