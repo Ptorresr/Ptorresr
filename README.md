@@ -13,7 +13,6 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 **💼 Currently working on:**
 
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="40" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://www.ansible.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
@@ -31,7 +30,7 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="40" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 <div align="Left">
 **📫 Reach me at:**<br>
@@ -39,10 +38,10 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.torres.rdz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
 
-<div align="Center">
+<div align="left">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
 
-[![Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
+![[Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
 
 </div>  
 
