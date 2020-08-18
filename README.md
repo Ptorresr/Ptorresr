@@ -3,7 +3,7 @@
 <p align="left">
 My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
-1. 🔭 - I’m currently working on a [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
+1. 🔭 - I’m currently working on a [Oracle](https://www.oracle.com), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
 2. 🌱 - I’m currently learning everything around of Microservices, Python Programming and Machine Learning.
 3. 👯 - I’m looking to collaborate with other content creators to create new contents.
 4. 🥅 - 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
@@ -18,9 +18,6 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 <code><a href="https://git-scm.com//" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.terraform.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-
-**💬 Ask me about:**
-
 <code><a href="https:///" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
