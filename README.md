@@ -10,7 +10,7 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
 </p>
 
-**💼 Currently working on:**
+**💼 My Tech Stack:**
 
 <code><a href="https://www.oracle.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
