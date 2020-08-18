@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/ATP.gif "Header")
 <p align="left">
-My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
+My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
 1. 🔭 - I’m currently working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
 2. 🌱 - I’m currently learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
@@ -37,8 +37,44 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 <div align="left">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>  
 
 ⭐️ From [Ptorresr](https://github.com/Ptorresr)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Ptorresr/Ptorresr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ptorresr&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Ptorresr/Ptorresr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
+</a>
+
+<a href="https://github.com/Ptorresr/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ptorresr&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/Ptorresr/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ptorresr&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
