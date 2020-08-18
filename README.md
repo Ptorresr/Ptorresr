@@ -1,5 +1,5 @@
 <h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="50px"> :earth_americas:</b></h1>
-[![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/Keep Learning.jpg "Header")]
+[![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/ATP-gif "Header")]
 <p align="left">
 My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
