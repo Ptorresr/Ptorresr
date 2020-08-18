@@ -33,9 +33,9 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.torres.rdz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
 
-<div align="left"> <br>
+<div align="left">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
-<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
