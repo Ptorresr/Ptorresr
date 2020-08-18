@@ -41,7 +41,7 @@ My name is Pedro Torres and I'm an Oracle DBA/Cloud Architect/Developer and Teac
 <div align="left"> <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge.issue.1)
 
-![[Ptorres github stats] (https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/Ptorresr/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ptorresr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>  
 
