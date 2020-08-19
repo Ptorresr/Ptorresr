@@ -43,7 +43,6 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/Ptorresr)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/Ptorresr/Ptorresr)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Ptorresr)](https://badges.pufler.dev)
 ![Views](https://komarev.com/ghpvc/?username=Ptorresr&color=brightgreen)
 
