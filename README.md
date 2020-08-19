@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/ATP.gif "Header")
 <p align="left">
-My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
+My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer and Instructor!. 
 
 1. 🔭 - I’m working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
 2. 🌱 - I’m learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
