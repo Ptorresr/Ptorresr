@@ -41,7 +41,7 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/Ptorresr)](https://badges.pufler.dev)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ptorresr.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
 [![Years Badge](https://badges.pufler.dev/years/Ptorresr)](https://badges.pufler.dev)
 
 
