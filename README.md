@@ -33,7 +33,7 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 
 [<img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:pedro.torres.rdz@gmail.com)
 [<img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">](https://www.linkedin.com/in/pedro-torres-rdz/)
-![Twitter](https://img.shields.io/twitter/follow/PedroToRdz?style=social)
+[<img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">](https://twitter.com/PedroToRdz)
 
 
 ## &#x1f4c8; GitHub Stats
