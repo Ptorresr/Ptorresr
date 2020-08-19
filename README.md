@@ -31,8 +31,8 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 <div align="Left">
 **📫 Reach me at:** <br>
 
-[![Gmail](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](mailto:pedro.torres.rdz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-torres-rdz/)
+[<img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:pedro.torres.rdz@gmail.com)
+[<img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">](https://www.linkedin.com/in/pedro-torres-rdz/)
 ![Twitter](https://img.shields.io/twitter/follow/PedroToRdz?style=social)
 
 <div align="left">
