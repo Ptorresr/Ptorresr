@@ -4,8 +4,8 @@
 <p align="left">
 My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer and Teacher!. 
 
-1. 🔭 - I’m currently working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
-2. 🌱 - I’m currently learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
+1. 🔭 - I’m working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
+2. 🌱 - I’m learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
 3. 👯 - I’m looking to collaborate with other content creators to create new contents.
 4. 🥅 - 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
