@@ -11,7 +11,7 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
 </p>
 
-<br>**💼 My Tech Stack:**
+**💼 My Tech Stack:**
 
 <code><a href="https://www.oracle.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
@@ -36,13 +36,12 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Ptorresr/Ptorresr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
+<a href="https://github.com/Ptorresr/Ptorresr"> <img align="center" src="https://github-readme-stats.vercel.app/api username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
 </a>
 
 <div align="Center">
 ⭐️ From [Ptorresr](https://github.com/Ptorresr)
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
 </div>
 
