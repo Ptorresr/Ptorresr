@@ -44,4 +44,6 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 [![Visits Badge](https://badges.pufler.dev/visits/Ptorresr/Ptorresr)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Ptorresr)](https://badges.pufler.dev)
 
+⭐️ From [Ptorresr](https://github.com/Ptorresr)
+
 
