@@ -29,12 +29,14 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 <code><a href="https://microservices.io/" target="_blank"><img height="40" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 <div align="Left">
+  
 **📫 Reach me at:** <br>
 
 [<img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:pedro.torres.rdz@gmail.com)
 [<img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">](https://www.linkedin.com/in/pedro-torres-rdz/)
 [<img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">](https://twitter.com/PedroToRdz)
 
+</div>
 
 ## &#x1f4c8; GitHub Stats
 
