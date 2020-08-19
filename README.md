@@ -39,9 +39,6 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Ptorresr&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
- 
-<p align ="left"> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
-</p>
+
 
 
