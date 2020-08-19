@@ -35,20 +35,14 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 [<img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">](https://www.linkedin.com/in/pedro-torres-rdz/)
 ![Twitter](https://img.shields.io/twitter/follow/PedroToRdz?style=social)
 
-<div align="left">
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
-
-</div>  
-
-⭐️ From [Ptorresr](https://github.com/Ptorresr)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Ptorresr/Ptorresr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
 </a>
 
 
-
+⭐️ From [Ptorresr](https://github.com/Ptorresr)
 
 
