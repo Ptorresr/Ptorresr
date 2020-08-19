@@ -44,7 +44,9 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
   <img align="center" src="https://github-readme-stats.vercel.app/api username=Ptorresr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pedro´s GitHub Stats" />
 </a>
 
-
+<div align="Center">
 ⭐️ From [Ptorresr](https://github.com/Ptorresr)
-
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+</div>
 
