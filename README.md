@@ -9,6 +9,7 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 3. 👯 - I’m looking to collaborate with other content creators to create new contents.
 4. 🥅 - 2020 Goals: Contribute more to Database, Cloud, Kubernetes and Python projects.
 5. ⚡ - Fun fact: I love to play Soccer and Tenis.
+
 </p>
 
 **💼 My Tech Stack:**
@@ -28,14 +29,19 @@ My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="40" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
-<br>**📫 Reach me at:**
+<br> **📫 Reach me at:**
 
 [<img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:pedro.torres.rdz@gmail.com)
 [<img height="30" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg">](https://www.linkedin.com/in/pedro-torres-rdz/)
 [<img height="30" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg">](https://twitter.com/PedroToRdz)
 
-## &#x1f4c8; GitHub Stats
 
+<p align ="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ptorresr&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+</p>
+ 
+<p align ="left"> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Ptorresr.visitor-badge)
+</p>
 
 
