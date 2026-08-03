@@ -1,38 +1,58 @@
-<h1 align= "center"><b>Hello, Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="50px"> :earth_americas:</b></h1>
+<h1 align="center">Pedro Torres</h1>
 
-![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/ATP.gif "Header")
-<p align="left">
-My name is <b> Pedro Torres </b> and I'm an Oracle DBA/Cloud Architect/Developer and Instructor!. 
-
-1. 🔭 - I’m working on [Oracle APEX](https://apex.oracle.com/), [OCI](https://docs.oracle.com/en/cloud/), [kubernetes](https://kubernetes.io/) and [Docker](https://www.docker.com)
-2. 🌱 - I’m learning everything around of Cybersecurity, Microservices, Python Programming and Machine Learning.
-3. 👯 - I’m looking to collaborate with other content creators to create new contents.
-4. 🥅 - 2024 Goals: Contribute more to Database, Cloud, SQL, Python and Java projects.
-5. ⚡ - Fun fact: I love to play Soccer and Tenis.
-
+<p align="center">
+  Oracle DBA · Cloud Architect · Developer · Instructor
 </p>
 
-**💼 My Tech Stack:**
+<p align="center">
+  I design reliable data platforms and cloud solutions with <strong>Oracle Database</strong>, <strong>OCI</strong>, automation, and modern application services.
+</p>
 
-<code><a href="https://www.oracle.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https:///" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<p align="center">
+  <a href="https://pedrotorresrdz.blogspot.com/">Blog</a> ·
+  <a href="https://github.com/Ptorresr?tab=repositories">Projects</a> ·
+  <a href="https://x.com/PedroToRdz">X / Twitter</a>
+</p>
 
-<br> **🌱 Looking forward to learn:**
+## What I do
 
-<code><a href="https://www.terraform.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+- Architect and operate Oracle Database and OCI environments with a focus on security, performance, resilience, and cost awareness.
+- Build practical automation and developer experiences around SQL, Python, Docker, Kubernetes, and cloud-native services.
+- Teach and share hands-on material on databases, cloud, and application development.
 
-<br> **📫 Reach me at:**
+## Current focus
 
-[<img height="30" src="https://img.shields.io/github/followers/Ptorresr?label=GitHub&style=social">](https://github.com/Ptorresr)
+| Area | How I apply it |
+| --- | --- |
+| Oracle Database | Administration, performance, automation, and modern data services |
+| Oracle Cloud Infrastructure | Cloud architecture, platform services, and operational best practices |
+| Application development | Oracle APEX, Python, REST APIs, and containerized workloads |
+| Platform engineering | Docker, Kubernetes, Infrastructure as Code, and CI/CD |
+| AI for data platforms | Practical experimentation with LLMs, retrieval, and database-adjacent AI workflows |
 
-![Views](https://komarev.com/ghpvc/?username=Ptorresr&color=brightgreen)
+## Selected work
 
+I am curating this profile around reusable, documented work. The next projects published here will focus on:
 
-⭐️ From [Ptorresr](https://github.com/Ptorresr)
+- **Oracle + OCI automation** — reproducible provisioning and operational runbooks.
+- **Database observability** — scripts and dashboards to make database health actionable.
+- **APEX and API integrations** — reference applications that connect data, services, and users.
 
+## Toolbox
 
+<p>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-DB0000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-1F1F1F?style=for-the-badge&logo=oracle&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+## Let's connect
+
+If you are building with Oracle Database, OCI, automation, or data platforms, I would be glad to exchange ideas and collaborate.
+
+<p>
+  <a href="https://github.com/Ptorresr"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Ptorresr?label=Follow%20on%20GitHub&style=social"></a>
+</p>
