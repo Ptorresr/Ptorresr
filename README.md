@@ -1,11 +1,11 @@
 <h1 align="center">Pedro Torres</h1>
 
 <p align="center">
-  Oracle DBA · Cloud Architect · Developer · Instructor
+  Oracle DBA · Cloud Architect · Developer 
 </p>
 
 <p align="center">
-  I design reliable data platforms and cloud solutions with <strong>Oracle Database</strong>, <strong>OCI</strong>, automation, and modern application services.
+  I design reliable p[latforms and cloud solutions with <strong>Oracle Database</strong>, <strong>OCI</strong>, automation, and modern application services.
 </p>
 
 <p align="center">
