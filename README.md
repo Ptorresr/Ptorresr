@@ -2,7 +2,7 @@
 
 <p align="center"><b>Oracle DBE · Cloud Architect · Developer</b></p>
 
-<img src="assets/modern-oracle-development-banner.gif" width="100%" alt="Oracle database, cloud, development, and AI architecture">
+<img src="assets/modern-oracle-development-banner.png" width="100%" alt="Oracle database, cloud, development, and AI architecture">
 
 ## What I do
 
