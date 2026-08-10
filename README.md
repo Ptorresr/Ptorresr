@@ -1,4 +1,4 @@
-<h1 align="center">Pedro</h1>
+<h1 align="center"></h1>
 
 <p align="center"><b>Oracle DBE · Cloud Architect · Developer</b></p>
 
