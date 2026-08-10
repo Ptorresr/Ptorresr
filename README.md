@@ -4,13 +4,13 @@
 
 <img src="assets/modern-oracle-development-banner.gif" width="100%" alt="Oracle database, cloud, development, and AI architecture">
 
-<p align="left">
-  1. 🔭 I work with <a href="https://apex.oracle.com/">Oracle APEX</a>, <a href="https://www.oracle.com/cloud/">Oracle Cloud Infrastructure (OCI)</a>, <a href="https://kubernetes.io/">Kubernetes</a>, and <a href="https://www.docker.com/">Docker</a>.
-  2. 🛠️ I build and support practical solutions around databases, cloud platforms, automation, and application development.
-  3. 🌱 I am currently exploring cybersecurity, microservices, Python, machine learning, and AI agents.
-  4. 👯 I enjoy collaborating with developers, DBAs, architects, and content creators on database and cloud projects.
-  5. ⚡ Fun fact: I enjoy playing soccer and tennis.
-</p>
+## What I do
+
+- 🗄️ **Data & applications** — Oracle APEX, databases, APIs, and application development.
+- ☁️ **Cloud & automation** — Oracle Cloud Infrastructure (OCI), Kubernetes, Docker, and platform automation.
+- 🤖 **Current focus** — Cybersecurity, microservices, Python, machine learning, and AI agents.
+- 🤝 **Collaboration** — Open to working with developers, DBAs, architects, and content creators on database and cloud projects.
+- ⚡ **Outside work** — Soccer and tennis.
 
 **💼 Tech stack**
 
