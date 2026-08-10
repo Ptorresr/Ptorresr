@@ -2,7 +2,7 @@
 
 <p align="center"><b>Oracle DBA · Cloud Architect · Developer</b></p>
 
-![Oracle database, cloud, and development architecture](assets/modern-oracle-development-banner.gif)
+<img src="assets/modern-oracle-development-banner.gif" width="100%" alt="Oracle database, cloud, development, and AI architecture">
 
 <p align="left">
   My name is <b>Pedro Torres</b>. I am an Oracle DBA, Cloud Architect, Developer, and Instructor.
