@@ -5,8 +5,6 @@
 <img src="assets/modern-oracle-development-banner.gif" width="100%" alt="Oracle database, cloud, development, and AI architecture">
 
 <p align="left">
-  My name is <b>Pedro Torres</b>. I am an Oracle DBA, Cloud Architect, Developer, and Instructor.
-
   1. 🔭 I work with <a href="https://apex.oracle.com/">Oracle APEX</a>, <a href="https://www.oracle.com/cloud/">Oracle Cloud Infrastructure (OCI)</a>, <a href="https://kubernetes.io/">Kubernetes</a>, and <a href="https://www.docker.com/">Docker</a>.
   2. 🛠️ I build and support practical solutions around databases, cloud platforms, automation, and application development.
   3. 🌱 I am currently exploring cybersecurity, microservices, Python, machine learning, and AI agents.
