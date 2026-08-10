@@ -1,6 +1,6 @@
-<h1 align="center">Pedro Torres</h1>
+<h1 align="center">Pedro</h1>
 
-<p align="center"><b>Oracle DBA · Cloud Architect · Developer</b></p>
+<p align="center"><b>Oracle DBE · Cloud Architect · Developer</b></p>
 
 <img src="assets/modern-oracle-development-banner.gif" width="100%" alt="Oracle database, cloud, development, and AI architecture">
 
