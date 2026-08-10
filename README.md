@@ -12,23 +12,28 @@
 - 🤝 **Collaboration** — Open to working with developers, DBAs, architects, and content creators on database and cloud projects.
 - ⚡ **Outside work** — Soccer and tennis.
 
-**💼 Tech stack**
+## Core technology stack
 
-<code><a href="https://www.oracle.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"></a></code>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Database-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database">
+  <img src="https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/OCI-1F1F1F?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+</p>
 
-**🌱 Currently exploring**
-
-<code><a href="https://www.terraform.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></a></code>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AI_Agents-24292F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents">
+</p>
 
 **📫 Connect with me**
 
