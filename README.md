@@ -2,7 +2,7 @@
   <b>Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="50px" alt="Wave"> 🌎</b>
 </h1>
 
-![Header](https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/ATP.gif "Header")
+![Oracle database, cloud, and development architecture](assets/modern-oracle-development-banner.gif)
 
 <p align="left">
   My name is <b>Pedro Torres</b>. I am an Oracle DBA, Cloud Architect, Developer, and Instructor.
