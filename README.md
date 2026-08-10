@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b>Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/Ptorresr/Ptorresr/master/wave.gif" width="50px" alt="Wave"> 🌎</b>
-</h1>
+<h1 align="center">Pedro Torres</h1>
+
+<p align="center"><b>Oracle DBA · Cloud Architect · Developer</b></p>
 
 ![Oracle database, cloud, and development architecture](assets/modern-oracle-development-banner.gif)
 
